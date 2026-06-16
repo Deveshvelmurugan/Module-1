@@ -16,9 +16,8 @@ To write a Python program to find the minimum between three integer numbers usin
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
-# Write your code here
+# Reg.No- Devesh V 
+# Name-212223060045
 
 num1 = int(input())
 num2 = int(input())
@@ -30,5 +29,7 @@ print(f"The minimum of {num1}, {num2}, {num3} is {min_num}")
 ```
 
 ## OUTPUT
+<img width="1159" height="414" alt="601355046-4a796eee-12b2-4658-980d-ad00428421bb" src="https://github.com/user-attachments/assets/09732f9a-0bd5-4a31-9a48-22db7271a102" />
 
 ## RESULT
+A Python program to check whether the given character is a vowel or not using if..else statement has been implemented and executed successfully.
